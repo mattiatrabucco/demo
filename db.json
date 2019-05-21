@@ -1,14 +1,11 @@
 {
   "posts": [
     { "id": 1, "title": "Prova ciao" },
-    { "id": 2, "title": "Post cigodo" },
-    { "id": 3, "title": "Post promo" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 2, "title": "Post cigodo ciao" },
+    { "id": 3, "title": "Post cigodo ciaooooo" },
+    { "id": 4, "title": "Post cigodo ue" },
+    { "id": 5, "title": "Post cigodo come" },
+    { "id": 6, "title": "Post cigodo va" },
+    { "id": 7, "title": "Post promo la vita in quel di modena" }
+  ]
 }
